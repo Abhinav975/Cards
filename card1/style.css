@@ -31,8 +31,31 @@ div h2{
     color: gold;
     border-radius: 5px;
 }
+div h4{
+        margin: 0%;
+        padding: 0%;
+        text-align: center;
+        background-color:black;
+        color: gold;
+        border-radius: 5px;
+}
 
 div .price{
-    text-align: center;
-    color:black;
+    font-size: medium;
+    margin: 0%;
+        padding: 0%;
+        text-align: center;
+        background-color:black;
+        color: gold;
+        border-radius: 5px;
+}
+div div{
+    font-size: medium;
+    margin: 0%;
+        padding: 0%;
+        text-align: center;
+        background-color:black;
+        color: gold;
+        border-radius: 5px;
+        height: 50px;
 }
