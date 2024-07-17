@@ -1,0 +1,51 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+}
+
+.flex-container {
+    background-color: DodgerBlue;
+    margin: 10px;
+  padding: 20px;
+  font-size: 15px;
+  }
+.watch1-img{
+    height: 300px;
+    width: 200px;
+}
+.watch1{
+    font-size: medium;
+    margin: 0%;
+        padding: 0%;
+        text-align: center;
+        color: black;
+       
+}
+.watch2-img{
+    height: 300px;
+    width: 200px;
+}
+.watch2{
+    font-size: medium;
+    margin: 0%;
+        padding: 0%;
+        text-align: center;
+        color: black;
+       
+}
+.flex-container.watch1.p{
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+    background-color:black;
+    color: darkgoldenrod;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    
+}
+@media screen and (max-width: 768px){
+    body{
+        flex-direction: column;
+    }
+}
