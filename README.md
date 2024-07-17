@@ -1,2 +1,2 @@
 # Cards
-Cards using CSS
+Cards using HTML and CSS
