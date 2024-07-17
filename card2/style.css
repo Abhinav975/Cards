@@ -7,8 +7,8 @@
 .flex-container {
     background-color: DodgerBlue;
     margin: 10px;
-  padding: 20px;
-  font-size: 15px;
+    padding: 20px;
+    font-size: 15px;
   }
 .watch1-img{
     height: 300px;
@@ -17,9 +17,9 @@
 .watch1{
     font-size: medium;
     margin: 0%;
-        padding: 0%;
-        text-align: center;
-        color: black;
+    padding: 0%;
+    text-align: center;
+    color: black;
        
 }
 .watch2-img{
@@ -29,9 +29,9 @@
 .watch2{
     font-size: medium;
     margin: 0%;
-        padding: 0%;
-        text-align: center;
-        color: black;
+    padding: 0%;
+    text-align: center;
+    color: black;
        
 }
 .flex-container.watch1.p{
@@ -44,8 +44,4 @@
     border-top-right-radius: 5px;
     
 }
-@media screen and (max-width: 768px){
-    body{
-        flex-direction: column;
-    }
-}
+
