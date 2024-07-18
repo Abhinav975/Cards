@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    background-color:black;
+    justify-content: center;
+    min-height: 100vh;
+    display: flex;
+}
+
+.village .image{
+margin-top: 50px;
+text-align: center; 
+border-top-left-radius: 12px;
+border-top-right-radius: 12px;
+}
+.time{
+    text-align: center;
+}
+.village.time .h3{
+    color: rgb(38, 17, 158);
+}
+.village.des{
+    margin-left: 600px;
+}
