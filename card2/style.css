@@ -4,17 +4,26 @@
     text-align: center;
 }
 
+body{
+    background-color: grey;
+}
 .flex-container {
-    background-color: DodgerBlue;
+    background-color: lightseagreen;
     margin: 10px;
     padding: 20px;
     font-size: 15px;
+    display: flex;
+    box-sizing: content-box;
+    height: 500px;
+    margin-left: 300px;
+    width: 700px;
+    justify-content: space-between;
   }
-.watch1-img{
+.flex-container .watch1 img{
     height: 300px;
     width: 200px;
 }
-.watch1{
+.flex-container.watch1{
     font-size: medium;
     margin: 0%;
     padding: 0%;
@@ -22,11 +31,11 @@
     color: black;
        
 }
-.watch2-img{
+.flex-container.watch2 img{
     height: 300px;
     width: 200px;
 }
-.watch2{
+.flex-container.watch2{
     font-size: medium;
     margin: 0%;
     padding: 0%;
@@ -34,14 +43,6 @@
     color: black;
        
 }
-.flex-container.watch1.p{
-    margin: 0%;
-    padding: 0%;
-    text-align: center;
-    background-color:black;
-    color: darkgoldenrod;
-    border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
-    
-}
+
+
 
