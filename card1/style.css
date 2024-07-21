@@ -15,7 +15,31 @@ body{
     height: 200px;
     margin-top: 50px;
 }
-.main img{
+.main .HP1 img{
+    margin-bottom: 0%;
+    text-align: center;
+    width: 300px;
+    height: 400px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.main .HP2 img{
+    margin-bottom: 0%;
+    text-align: center;
+    width: 300px;
+    height: 400px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.main .HP3 img{
+    margin-bottom: 0%;
+    text-align: center;
+    width: 300px;
+    height: 400px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.main .HP4 img{
     margin-bottom: 0%;
     text-align: center;
     width: 300px;
